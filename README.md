@@ -1,2 +1,3 @@
 # cred-frontend
-frontend website using react and hosting it in vercel website provider
+https://cred-feature.vercel.app/
+frontend website using react and hosted it in vercel website provider
